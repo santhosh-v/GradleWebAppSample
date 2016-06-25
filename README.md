@@ -1,4 +1,4 @@
 GradleWebAppSample
 ==================
 
-Sample Web Application to demonstrate Gradle usage for WAR + Jetty Plugin
+Sample Web Application to demonstrate Gradle usage for Eclipse
