@@ -6,3 +6,4 @@ web/.project
 web/.settings
 web/bin
 web/.classpath
+/.gradle/
