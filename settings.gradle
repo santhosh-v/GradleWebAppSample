@@ -1,1 +1,1 @@
-include ":utils",":web"
+include ":bf-domain", ":bf-persistence",":web"

@@ -4,7 +4,8 @@ apply plugin : "eclipse"
 apply plugin : "eclipse-wtp"
 
 dependencies {
-   compile project(":utils")
+   compile project(":bf-domain")
+   compile project(":bf-persistence")
    providedCompile 'javax.servlet:servlet-api:2.5'
    compile "javax.servlet:servlet-api:2.5"
 }

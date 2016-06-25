@@ -1,0 +1,14 @@
+.settings
+.project
+bf-domain/.classpath
+bf-domain/bin
+bf-domain/build
+bf-persistence/.classpath
+bf-persistence/bin
+bf-persistence/build
+web/.project
+web/.settings
+web/bin
+web/build
+web/.classpath
+/.gradle/
